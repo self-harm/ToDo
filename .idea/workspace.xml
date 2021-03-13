@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b8a6c7e-c5c7-42f6-aa1c-8175180bcb82" name="Default Changelist" comment="qweg" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="demo" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+        <option value="Tag Library Descriptor" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$/ToDo" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1pfCfvad5DTSzOydAVnucxB0A6E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kseniia\Desktop\projects\Java\todo\src\main\resources\db1\v1" />
+      <recent name="C:\Users\Kseniia\Desktop\projects\Java\todo\src\main\resources\db1" />
+      <recent name="C:\Users\Kseniia\Desktop\projects\Java\todo\src\main\resources\db1\version1" />
+      <recent name="C:\Users\Kseniia\Desktop\projects\Java\todo\src\main\resources\db\changelog" />
+      <recent name="C:\Users\Kseniia\Desktop\projects\Java\todo\DB" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ToDoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.selfharmed.todo.ToDoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b8a6c7e-c5c7-42f6-aa1c-8175180bcb82" name="Default Changelist" comment="" />
+      <created>1615564864343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615564864343</updated>
+      <workItem from="1615564870476" duration="1736000" />
+      <workItem from="1615566866647" duration="7999000" />
+      <workItem from="1615593050302" duration="74000" />
+      <workItem from="1615593195339" duration="243000" />
+      <workItem from="1615593452174" duration="961000" />
+      <workItem from="1615594811826" duration="171000" />
+    </task>
+    <task id="LOCAL-00001" summary="TD-1-Create-Basic_Functionality: added Hibernate config file and user entity">
+      <created>1615590882701</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615590882701</updated>
+    </task>
+    <task id="LOCAL-00002" summary="qwe">
+      <created>1615593474642</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615593474642</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TD-1-Create-Basic_Functionality: added Hibernate config file and user entity" />
+    <MESSAGE value="qwe" />
+    <option name="LAST_COMMIT_MESSAGE" value="qwe" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="859" y="411" key="#Assign_Data_Sources" timestamp="1615566773668">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="859" y="411" key="#Assign_Data_Sources/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1615566773668" />
+    <state x="440" y="94" key="#Project_Structure" timestamp="1615592491079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1615592491079" />
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615567904133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1615567904133" />
+    <state x="681" y="264" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1615565033436">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="264" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1615565033436" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1615594381003">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1615594381003" />
+    <state width="1293" height="392" key="GridCell.Tab.0.bottom" timestamp="1615593020084">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="392" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1615593020084" />
+    <state width="1293" height="392" key="GridCell.Tab.0.center" timestamp="1615593020083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="392" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1615593020083" />
+    <state width="1293" height="392" key="GridCell.Tab.0.left" timestamp="1615593020083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="392" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1615593020083" />
+    <state width="1293" height="392" key="GridCell.Tab.0.right" timestamp="1615593020083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="392" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1615593020083" />
+    <state width="1293" height="392" key="GridCell.Tab.1.bottom" timestamp="1615593020084">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="392" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1615593020084" />
+    <state width="1293" height="392" key="GridCell.Tab.1.center" timestamp="1615593020084">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="392" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1615593020084" />
+    <state width="1293" height="392" key="GridCell.Tab.1.left" timestamp="1615593020084">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="392" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1615593020084" />
+    <state width="1293" height="392" key="GridCell.Tab.1.right" timestamp="1615593020084">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="392" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1615593020084" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1615593386345">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1615593386345" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1615593529978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1615593529978" />
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615594140277">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1615594140277" />
+    <state x="342" y="181" key="new project wizard" timestamp="1615593121072">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="181" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1615593121072" />
+  </component>
+</project>
