@@ -1,6 +1,8 @@
-io/selfharmed/todo/model/db/User.java
- io.selfharmed.todo.model.db.User
 io/selfharmed/todo/configs/HibernateConf.java
  io.selfharmed.todo.configs.HibernateConf
+io/selfharmed/todo/model/db/User.java
+ io.selfharmed.todo.model.db.User
+io/selfharmed/todo/model/db/Task.java
+ io.selfharmed.todo.model.db.Task
 io/selfharmed/todo/ToDoApplication.java
  io.selfharmed.todo.ToDoApplication
