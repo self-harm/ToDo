@@ -17,7 +17,7 @@ import java.util.Properties;
 @EnableWebMvc
 @ComponentScan(basePackages = "io.selfharmed.todo")
 public class HibernateConf {
-    private final static String JDBC_URL = "jdbc:postgresql://localhost:5432/ToDo_DB?useSSL=false&serverTimezone=UTC";
+    private final static String JDBC_URL = "jdbc:postgresql://localhost:5432/TODO?useSSL=false&serverTimezone=UTC";
 
     @Bean
     public DataSource dataSource(){
